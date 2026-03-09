@@ -64,7 +64,7 @@ A chess engine built from scratch implementing board representation, legal move 
 
 ---
 
-### Travel Agency Web Application
+### [Travel Agency Web Application](https://github.com/aprataps4/travel-agency)
 
 A backend web application for managing travel bookings and user authentication.
 
