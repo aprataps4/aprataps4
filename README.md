@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akhand Pratap Singh 😎
 
-I am a Computer Science student passionate about building intelligent systems and exploring how software can solve real-world problems. I enjoy working at the intersection of **machine learning, systems programming, and scalable software development**.
+I am a Computer Science student from IIT (BHU) Varanasi passionate about building intelligent systems and exploring how software can solve real-world problems. I enjoy working at the intersection of **machine learning, systems programming, and scalable software development**.
 
 My curiosity lies in understanding how complex systems work internally and how they can be optimized for performance and efficiency. I enjoy exploring both **high-level machine learning frameworks and low-level system implementations**.
 
