@@ -38,7 +38,7 @@ I enjoy learning from large codebases, understanding how production systems are 
 
 ## Projects
 
-### Breast Cancer Detection using Deep Learning
+### [Breast Cancer Detection using Deep Learning](https://github.com/aprataps4/Breast-cancer-detection)
 
 A computer vision project that uses a **ResNet50 architecture** to classify breast cancer histopathology images into **benign or malignant categories**.
 
