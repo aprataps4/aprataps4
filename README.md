@@ -52,7 +52,7 @@ This project explores the use of deep learning in **medical image analysis**, fo
 
 ---
 
-### Python Chess Engine
+### [Chess Bot](https://github.com/aprataps4/python-chess-engine)
 
 A chess engine built from scratch implementing board representation, legal move generation, and evaluation logic.
 
@@ -90,20 +90,6 @@ A deep learning project that generates descriptive captions for images using a c
 * CNN + RNN / Transformer architectures
 
 The system extracts visual features from images using convolutional neural networks and generates meaningful textual descriptions, demonstrating the integration of **vision and language models**.
-
----
-
-### Real-Time Chat Application
-
-A real-time messaging application that enables instant communication between users with live message updates.
-
-**Technologies used**
-
-* WebSockets / Socket-based communication
-* Backend APIs
-* Frontend interface for messaging
-
-The application focuses on building **low-latency communication systems**, handling concurrent users and delivering messages in real time.
 
 ---
 
