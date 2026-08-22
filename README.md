@@ -25,7 +25,6 @@ I enjoy learning from large codebases, understanding how production systems are 
 * C
 * C++
 * Python
-* Java
 
 ### Technologies & Tools
 
